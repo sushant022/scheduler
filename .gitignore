@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+logs/**/*.log
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
